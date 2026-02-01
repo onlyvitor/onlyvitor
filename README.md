@@ -15,7 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=onlyvitor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Build Status](https://github.com/onlyvitor/BlogAPI/workflows/CI/badge.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
