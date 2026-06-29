@@ -1,101 +1,60 @@
+<p align="center">
+  <img src="https://usagif.com/wp-content/uploads/cat-typing-12.gif" alt="Banner Gif" width="100%" />
+</p>
 
-<div align="center">
+# Hi i'm Vito
 
-```
- ██████╗ ███╗   ██╗██╗   ██╗██╗   ██╗██╗████████╗ ██████╗ ██████╗
-██╔═══██╗████╗  ██║╚██╗ ██╔╝██║   ██║██║╚══██╔══╝██╔═══██╗██╔══██╗
-██║   ██║██╔██╗ ██║ ╚████╔╝ ██║   ██║██║   ██║   ██║   ██║██████╔╝
-██║   ██║██║╚██╗██║  ╚██╔╝  ╚██╗ ██╔╝██║   ██║   ██║   ██║██╔══██╗
-╚██████╔╝██║ ╚████║   ██║    ╚████╔╝ ██║   ██║   ╚██████╔╝██║  ██║
- ╚═════╝ ╚═╝  ╚═══╝   ╚═╝    ╚═══╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-```
+### About Me
 
-**`onyvitor`** — 18 y/o · Backend & Low-Level Dev · Obsessed with how systems actually work
+Today, I primarily work with backend development, building reliable and maintainable applications while continuously exploring systems programming and low-level computing. I enjoy moving between abstraction layers, from designing scalable web services to understanding what happens closer to the operating system and hardware.
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0ystein_)
-
-</div>
+I believe great engineers are built on strong fundamentals rather than short-lived trends. Technologies change, but solid knowledge endures. That's why I see learning as a lifelong process and treat every project as an opportunity to deepen my understanding, write better software, and become a more thoughtful engineer.
 
 ---
 
-## `> whoami`
+## Languages
 
-I'm a self-taught developer who got frustrated with surface-level programming and went deep — really deep. What started as curiosity about *why* a web request takes the path it does turned into a full obsession with **software architecture**, **operating systems internals**, and **backend systems design**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-At 18, I'm already building things most people only read about in textbooks: a **32-bit x86 microkernel** from scratch in Assembly and C, distributed backend platforms with message queues and event-driven pipelines, and CLI tools that deal with encryption, TTL destruction, and raw memory. I don't just want to ship features — I want to understand every layer of the stack, from the GDT/IDT up to the HTTP handler.
+## Backend
 
-Architecture isn't a buzzword to me. It's a craft. I genuinely lose sleep over whether a system should be a **modular monolith or a microservice**, whether a domain boundary is drawn correctly, and what tradeoffs DDD makes at scale. I study kernel design and map those patterns back to distributed systems. To me, an OS scheduler and a job queue are solving the same fundamental problems at different altitudes.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
----
+## Frontend
 
-## `> current_focus`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-```
-[■■■■■■■■■░]  Yorunix     → x86 32-bit microkernel (Assembly + C)
-[■■■■■■■░░░]  Backend     → NestJS · BullMQ · Redis · PostgreSQL
-[■■■■■░░░░░]  Architecture → DDD · Event-Driven · Microservices vs Monolith
-[■■■░░░░░░░]  Tooling      → Custom CLIs in C (encryption, scaffolding, fuzzing)
-```
+## Databases
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## `> stack`
-
-### Tools
+## Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Runtimes
-
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## `> philosophy`
+### Github Stats
 
-> *"You don't truly understand a system until you've tried to build one from scratch."*
-
-I believe the best backend engineers aren't those who know the most frameworks — they're the ones who understand **why abstractions exist** in the first place. That's why I build kernels. That's why I care about memory layout, syscall interfaces, and IPC mechanisms. When you've written your own scheduler, a job queue in Redis stops being magic and starts being *obvious*.
-
-I approach every project with three questions:
-- **What are the failure modes?**
-- **Where are the boundaries?**
-- **What does this look like at 100x scale?**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onlyvitor&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyvitorI&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
+</p>
 
 ---
 
-## `> github_stats`
-
-<div align="center">
-
-![onyvitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=onyvitor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyvitor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
-
-<div align="center">
-
-*Building from the ground up — one assembly instruction at a time.*
-
-</div>
+*   **E-mail:** vito.dev.franca@gmail.com
