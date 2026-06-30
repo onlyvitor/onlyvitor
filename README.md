@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://usagif.com/wp-content/uploads/cat-typing-12.gif" alt="Banner Gif" width="100%" />
+  <img src="https://usagif.com/wp-content/uploads/cat-typing-12.gif" alt="Banner Gif" width="50%" />
 </p>
 
 # Hi i'm Vito
