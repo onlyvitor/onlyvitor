@@ -51,8 +51,8 @@ I believe great engineers are built on strong fundamentals rather than short-liv
 ### Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyvitor&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyvitorI&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onlyvitor&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyvitor&layout=compact&theme=radical" alt="Linguagens mais usadas" height="100" />
 </p>
 
 ---
