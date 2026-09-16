@@ -19,7 +19,7 @@ Desenvolvedor backend em formação, focado no ecossistema <b>TypeScript/Node.js
   </a>
   <img width="8" />
   <a href="https://github.com/onlyvitor" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="30" height="30" alt="github logo" />
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="30" height="30" alt="github logo" />
   </a>
 </div>
 
