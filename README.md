@@ -72,7 +72,7 @@ Trabalho principalmente com TypeScript e Node.js, usando NestJS e Express.js, co
 </p>
 
 <p align="left">
-Esse trabalho caminha junto com o estudo de APIs REST, DTOs, princípios de orientação a objetos e, cada vez mais, arquitetura de aplicações, Domain-Driven Design e sistemas distribuídos. Não trato esses temas como itens soltos de currículo: são ferramentas para responder à mesma pergunta, que é como estruturar um sistema que alguém inclusive eu mesmo, seis meses depois consiga entender e evoluir sem reescrever tudo.
+Esse trabalho caminha junto com o estudo de APIs REST, princípios de orientação a objetos e, cada vez mais, arquitetura de aplicações, Domain-Driven Design e sistemas distribuídos. Não trato esses temas como itens soltos de currículo: são ferramentas para responder à mesma pergunta, que é como estruturar um sistema que alguém inclusive eu mesmo, seis meses depois consiga entender e evoluir sem reescrever tudo.
 </p>
 
 <p align="left">
@@ -88,7 +88,7 @@ Também venho aprendendo a tratar trade-offs com mais honestidade. Boa parte do 
 </p>
 
 <p align="left">
-Além do backend, tenho curiosidade genuína por programação de baixo nível e por entender o que acontece abaixo das abstrações que uso normalmente. C, Rust, Assembly, kernels, sistemas operacionais e arquitetura de computadores são espaço de exploração pessoal, não a direção principal da minha carreira mas influenciam bastante como penso sobre o que está acontecendo por baixo do código que escrevo no dia a dia.
+Além do backend, tenho curiosidade genuína por programação de baixo nível e por entender o que acontece abaixo das abstrações que uso normalmente. C, Rust, Assembly e arquitetura de computadores são espaço de exploração pessoal, não a direção principal da minha carreira mas influenciam bastante como penso sobre o que está acontecendo por baixo do código que escrevo no dia a dia.
 </p>
 
 ### Formação
